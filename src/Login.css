@@ -1,0 +1,18 @@
+.Login{
+    background-color: black;
+    display:grid;
+    place-items: center;
+    height:100vh;
+}
+.Login>img{
+    width: 80%;
+    align-self: auto;
+}
+.Login-link{
+    padding: 20px;
+    border-radius: 99px;
+    background-color: #1db954;
+    font-weight:600;
+    color:white;
+    text-decoration: none; /*is a link will show underline after clicked to remove that  */
+}

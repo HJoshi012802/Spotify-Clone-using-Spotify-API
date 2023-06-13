@@ -1,0 +1,52 @@
+.Body{
+    flex:0.8;
+    padding:30px;
+    height: 100vh;
+    overflow: overlay;
+    background:linear-gradient(rgb(48, 18, 213),rgb(0, 0, 0)) ;
+}
+.Body::-webkit-scrollbar{
+    display: none;
+}
+.Body_info{
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+}
+.Body_infoText{
+    flex:1;
+}
+.Body_info >img{
+    height :20vw;
+    margin: 0 20px;
+    box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+
+}
+.Body_info >h1{
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.Body_infoText >p{
+    font-size: 14px;
+}
+.body_icons{
+    display: flex;
+    align-items: center;
+}
+.body_icons >.MuiSvgIcon-root{
+    margin-right: 20px;
+}
+.body_shuffle{
+    font-size:70px !important;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.body_shuffle:hover{
+    transition: 100ms transform ease-in;
+    transform: scale(1.08);
+    color: #1DB954;
+}
+.body_songs{
+    margin:20px -30px;
+}
