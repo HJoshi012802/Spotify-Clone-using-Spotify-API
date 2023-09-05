@@ -1,3 +1,14 @@
+# FRONT-END 
+
+![image](https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API/assets/106693465/eaed872b-db55-4268-bfd6-da2d503e79fa)
+
+![image](https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API/assets/106693465/834ac6a8-1f00-4ec2-b8f1-02635a1e648c)
+
+![image](https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API/assets/106693465/894abb52-ab57-4957-a88f-4b28266d245f)
+
+![image](https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API/assets/106693465/bad8e97f-4915-4503-963c-7a0ec2d0353a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
